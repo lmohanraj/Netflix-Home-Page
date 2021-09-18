@@ -1,0 +1,151 @@
+.section1{
+    background : url("https://files.oyebesmartest.com/uploads/large/11552564144wswgy9cmrleummv7b3vlebfyn34h1rcrzstgpvqyjq3vezcegfsmj2tnm8lhwscpaat0fh2uq5uscrn00rysnlh5ykw3avg5bxpz.jpg") no-repeat center center fixed;
+    background-size: cover ;
+    background-blend-mode:darken;
+    padding-bottom: 120px;
+    padding-top: 0px;
+  }
+  body{
+      margin: 0px;
+  }
+  header{
+    display : flex;
+    justify-content : space-between;
+    padding : 30px;
+    font-size: 20px;
+    align-items: center;
+    padding-top: 5px;
+  }
+  .h1{
+      font-size: 50px;
+      color: #e50914;
+      font-weight: bold;
+  }
+ button{
+     height: 40px;
+     width: 80px;
+     font-size: 1.2rem;
+     color: white;
+     background-color: #e50914;
+     border: none;
+     border-radius: 5px;
+ } 
+ .getStarted{
+     width: 120px;
+     height:100%;
+     font-size: 1rem;
+     border-radius: 0px 5px 5px 0px;
+     
+ }
+ section{
+     color: #e50914;
+     align-items: center;
+     text-align: center;
+     padding-top: 20px;
+     font-weight: bold;
+ }
+ p{
+     margin: 20px;
+ }
+ input{
+     margin-top: 0px;
+     margin-bottom: 20px;
+     height: 48px;
+     border-radius: 5px;
+     width: 300px;
+     border: none;
+     padding-left: 10px;
+     border-radius: 5px 0px 0px 5px;
+ }
+ .input{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+    height: 50px;
+ }
+.line1{
+    font-size: 50px;
+}
+.line2{
+    font-size: 30px;
+}
+.line3{
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.section2, .section3{
+    padding: 120px;
+    display: flex;
+    align-items: center;
+    flex-wrap: no-wrap;
+    color: white;
+    font-weight: bold;
+    background-color: black;
+    align-content: center;
+    justify-content: center;
+    border-top: 5px solid grey;
+}
+.section3{
+    flex-direction: column;
+    border: none;
+}
+h2{
+    padding-left: 20px;
+    font-size: 50px;
+}
+.content{
+   font-size: 1.5rem; 
+   width: 800px;
+   padding-right: 30px;
+   padding-left: 30px;
+}
+.image{
+    width: 500px;
+}
+.query-title{
+    text-align: center;
+}
+.query{
+    display: flex;
+    text-align: left;
+    background-color: #303030;
+    padding: 10px;
+    padding-left: 40px;
+    font-weight: bold;
+    margin: 2px;
+  text-align: left;
+  justify-content: space-between;
+}
+.FAQ{
+    border-top: 5px solid grey;
+}
+footer{
+    color: grey;
+    background-color: black;
+    margin: none;
+    border-top: 5px solid grey;
+    padding : 80px;
+    font-size: 0.8rem;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer-p{
+    margin: 0px;
+}
+.list{
+    display: flex;
+}
+li{
+    padding: 12px;
+}
